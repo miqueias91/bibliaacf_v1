@@ -1,0 +1,68 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-admob-sdk": {
+      "PLAY_SERVICES_VERSION": "11.0.4",
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova-clipboard": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova-plugin-admob-free": {
+      "ADMOB_APP_ID": "ca-app-pub-7091486462236476~1364015655",
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova-plugin-insomnia": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "ANDROID_SUPPORT_V4_VERSION": "24.1.1+",
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova-promise-polyfill": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova-support-google-services": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "cordova.plugins.diagnostic": {
+      "ANDROID_SUPPORT_VERSION": "28.+",
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "phonegap-plugin-multidex": {
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    },
+    "phonegap-plugin-push": {
+      "FCM_VERSION": "11.6.2",
+      "PACKAGE_NAME": "com.phonegap.eutenhodoisreais"
+    }
+  },
+  "dependent_plugins": {}
+}

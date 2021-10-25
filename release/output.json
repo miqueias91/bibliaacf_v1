@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.phonegap.eutenhodoisreais",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 10027,
+      "versionName": "10027",
+      "enabled": true,
+      "outputFile": "app-release.apk"
+    }
+  ]
+}
