@@ -2,7 +2,7 @@ var config = new Object();
 //VERSAO
 config.titulo = "Bíblia Sagrada ACF";
 config.url = "http://bit.ly/310ik1b";
-config.versao = "1.0.29";
+config.versao = "1.0.30";
 config.app_ = "acf";
 config.versao_biblia = "acf";
 

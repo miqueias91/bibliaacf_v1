@@ -2,8 +2,8 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.phonegap.eutenhodoisreais"
 4    android:hardwareAccelerated="true"
-5    android:versionCode="10029"
-6    android:versionName="1.0.29" >
+5    android:versionCode="10030"
+6    android:versionName="1.0.30" >
 7
 8    <uses-sdk
 9        android:minSdkVersion="19"

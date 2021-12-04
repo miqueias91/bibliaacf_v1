@@ -1,4 +1,4 @@
-#Sat Nov 20 13:10:26 BRT 2021
+#Fri Dec 03 08:49:12 BRT 2021
 base.1=/var/www/html/biblia/bibliaacf_v1/platforms/android/app/build/intermediates/dex/debug/mergeDexDebug/classes2.dex
 path.1=classes2.dex
 base.0=/var/www/html/biblia/bibliaacf_v1/platforms/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
