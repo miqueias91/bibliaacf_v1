@@ -7,6 +7,6 @@ public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
   public static final String APPLICATION_ID = "com.phonegap.eutenhodoisreais";
   public static final String BUILD_TYPE = "debug";
-  public static final int VERSION_CODE = 10031;
-  public static final String VERSION_NAME = "1.0.31";
+  public static final int VERSION_CODE = 10032;
+  public static final String VERSION_NAME = "1.0.32";
 }
