@@ -1,4 +1,4 @@
-#Sat Dec 25 15:29:22 BRT 2021
+#Wed Jan 26 09:20:58 BRT 2022
 base.0=/var/www/html/biblia/bibliaacf_v1/platforms/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
