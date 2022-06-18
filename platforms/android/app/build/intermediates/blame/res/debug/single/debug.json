@@ -8,12 +8,12 @@
         "source": "/var/www/html/biblia/bibliaacf_v1/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
     },
     {
-        "merged": "/var/www/html/biblia/bibliaacf_v1/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat",
-        "source": "/var/www/html/biblia/bibliaacf_v1/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
-    },
-    {
         "merged": "/var/www/html/biblia/bibliaacf_v1/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat",
         "source": "/var/www/html/biblia/bibliaacf_v1/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/var/www/html/biblia/bibliaacf_v1/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/var/www/html/biblia/bibliaacf_v1/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
     },
     {
         "merged": "/var/www/html/biblia/bibliaacf_v1/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxhdpi_screen.png.flat",
